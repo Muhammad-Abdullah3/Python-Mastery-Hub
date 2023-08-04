@@ -27,7 +27,4 @@ In this comprehensive repository, you will find a wealth of meticulously crafted
 To get started with Python Mastery Hub, simply clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/Muhammad-Abdullah3/Python-Pastery-Hub.git
-
-
-
+git clone https://github.com/Muhammad-Abdullah3/Python-Mastery-Hub.git
