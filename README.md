@@ -24,6 +24,7 @@ In this comprehensive repository, you will find a wealth of meticulously crafted
 - **Hands-on Exercises:** Reinforce your learning through a wide array of hands-on exercises and coding challenges. From simple tasks to complex projects, these exercises are designed to encourage practical application and problem-solving.
 
 - **Companion Jupyter Notebooks:** Explore interactive Jupyter notebooks that allow you to experiment with code snippets, visualize data, and gain a deeper understanding of Python's capabilities.
+
 ## Contributing
 
 ### We Welcome Your Contributions!
