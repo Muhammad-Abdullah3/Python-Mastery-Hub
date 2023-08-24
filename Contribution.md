@@ -33,10 +33,13 @@ By contributing to this repository, you agree to license your contributions unde
 
 We appreciate your efforts to enhance the Python Mastery Hub repository and make it a valuable resource for learners worldwide. Together, we can foster a strong community of Python enthusiasts!
 
-If you have any questions or need assistance, feel free to open an issue or contact us at [your-email@example.com](mailto:your-email@example.com).
+If you have any questions or need assistance, feel free to open an issue or contact us at [mabdullah36t@gmail.com](mailto:mabdullah36t@gmail.com).
 
-
+#Getting Started
+(Note: Please replace "your-username" with your actual GitHub username in the repository link provided.)
 1. Fork the repository to your GitHub account.
-2. Clone your forked repository to your local machine:
+2. Clone your forked repository to your local machine and create a branch:
    ```bash
    git clone https://github.com/your-username/python-mastery-hub.git
+   git checkout -b your-branch-name
+
