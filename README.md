@@ -6,6 +6,9 @@ Welcome to the Python Mastery Hub, your ultimate resource for mastering the art 
 
 - [About](#about)
 - [Key Features](#key-features)
+- [Contributing](#contributing)
+- [Community](#community)
+- [Updates](#updates)
 - [Getting Started](#getting-started)
 
 ## About
@@ -24,7 +27,7 @@ In this comprehensive repository, you will find a wealth of meticulously crafted
 
 ## Getting Started
 
-To get started with Python Mastery Hub, simply clone the repository to your local machine:
+To get started with Python Mastery Hub, simply clone the repository to your local machine. But make sure to replace 'your-username' with your github username in the following command:
 
 ```bash
-git clone https://github.com/Muhammad-Abdullah3/Python-Mastery-Hub.git
+git clone https://github.com/your-username/Python-Mastery-Hub.git
