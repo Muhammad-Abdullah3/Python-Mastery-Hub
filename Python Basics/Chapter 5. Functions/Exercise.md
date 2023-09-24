@@ -25,5 +25,3 @@
 9. **Nested Functions**
    Create a function `outer_function(x)` that defines an inner function `inner_function(y)` and returns the result of calling `inner_function` with the argument `x`.
 
-10. **Error Handling in Functions**
-    Write a function `safe_divide(a, b)` that takes two numbers as arguments and returns their division result. Handle the `ZeroDivisionError` by printing an error message and returning `None` if `b` is zero.
