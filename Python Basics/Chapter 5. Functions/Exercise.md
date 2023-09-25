@@ -19,9 +19,6 @@
 7. **Function as an Argument**
    Create a function `apply_function(func, num)` that takes a function `func` and a number `num` as arguments and returns the result of applying `func` to `num`.
 
-8. **Scope and Global Variables**
-   Write a Python program that demonstrates the concept of global and local variables. Define a global variable and a function that modifies it and another function that prints its value.
-
-9. **Nested Functions**
+8. **Nested Functions**
    Create a function `outer_function(x)` that defines an inner function `inner_function(y)` and returns the result of calling `inner_function` with the argument `x`.
 
