@@ -1,3 +1,0 @@
-Name    Abdullah   
-Age     19
-City    Lahore
